@@ -1,0 +1,22 @@
+<%= simple_form_for(@applicant) do |f| %>
+  <%= f.error_notification %>
+
+  <div class="form-inputs">
+    <%= f.input :signup_id, input_html:{ value: "#{ current_signup.id }" } %>
+    <%= f.input :nickname %>
+    <%= f.input :pob %>
+    <%= f.input :civilstat, :as => :select, :collection => ["Single", "Married","Divorced", "Widow"] %>
+    <%= f.input :height %>
+    <%= f.input :weight %>
+    <%= f.input :religion %>
+    <%= f.input :tin %>
+    <%= f.input :sss %>
+    <%= f.input :philhealth %>
+    <%= f.input :photo %>
+    <%= f.input :resume %>
+  </div>
+
+  <div class="form-actions">
+    <%= f.button :submit %>
+  </div>
+<% end %>

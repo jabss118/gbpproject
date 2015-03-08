@@ -1,0 +1,35 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  applicant_id: 1
+  ans1: MyString
+  ans2a: MyString
+  ans2b: MyString
+  ans2c: MyString
+  ans2d: MyString
+  ans2e: MyString
+  ans2fa: MyString
+  ans2fb: MyString
+  ans3a: MyString
+  ans3b: MyString
+  ans4a: MyString
+  ans4b: MyString
+  ans4c: MyString
+  ans4d: MyString
+
+two:
+  applicant_id: 1
+  ans1: MyString
+  ans2a: MyString
+  ans2b: MyString
+  ans2c: MyString
+  ans2d: MyString
+  ans2e: MyString
+  ans2fa: MyString
+  ans2fb: MyString
+  ans3a: MyString
+  ans3b: MyString
+  ans4a: MyString
+  ans4b: MyString
+  ans4c: MyString
+  ans4d: MyString

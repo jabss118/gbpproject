@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  applicant_id: 1
+  level: MyString
+  institution: MyString
+  location: MyString
+  field: MyString
+  major: MyString
+  graduation: MyString
+  grade: MyString
+  honors: MyString
+
+two:
+  applicant_id: 1
+  level: MyString
+  institution: MyString
+  location: MyString
+  field: MyString
+  major: MyString
+  graduation: MyString
+  grade: MyString
+  honors: MyString

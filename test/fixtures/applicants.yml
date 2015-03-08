@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  signup_id: 1
+  nickname: MyString
+  pob: MyString
+  civilstat: MyString
+  height: MyString
+  weight: MyString
+  religion: MyString
+  tin: MyString
+  sss: MyString
+  philhealth: MyString
+  photo: MyString
+  resume: MyString
+
+two:
+  signup_id: 1
+  nickname: MyString
+  pob: MyString
+  civilstat: MyString
+  height: MyString
+  weight: MyString
+  religion: MyString
+  tin: MyString
+  sss: MyString
+  philhealth: MyString
+  photo: MyString
+  resume: MyString
